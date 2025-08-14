@@ -1,7 +1,7 @@
 <p align="center">
   <!--标题的名字，链接到我自己的网站主页-->
   <a href="https://github.com/CharleeGu0803">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jing Gu" /></a>
+    <img width="400px"src="https://github.com/CharleeGu0803/CharleeGu0803/blob/main/Images/name-header-no-background.png" alt="Jing Gu" /></a>
 </p>
 
 <p align="center">
